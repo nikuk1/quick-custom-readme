@@ -1,2 +1,3 @@
-# quick-custom-readme
-Quickly and easily generate a README file by using a command-line application!
+# Professional README Generator Starter Code
+
+[How to create a Professional README](./readme-guide.md)
